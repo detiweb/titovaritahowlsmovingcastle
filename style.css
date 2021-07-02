@@ -1,0 +1,46 @@
+body{
+	background: url(fon2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%; 
+	font-family: 'Roboto Slab', serif;
+}
+p{
+	background: #F9F3DD;
+}
+h1{
+	text-decoration: underline;
+	text-align: center;  
+}
+h2{
+	text-decoration: underline;
+}
+img{
+	
+	height: 250px;
+	width: 400px; 
+}
+a{
+	background: #F9F3DD;
+	color: black;
+}
+span{
+	background: #F9F3DD;
+}
+ol{
+	background: #F9F3DD;
+}
+ul{
+	background: #F9F3DD;
+}
+.card{
+	width: 400px;
+	height: 300px;
+	margin-left: 3%;
+	display: inline-block;
+	background: #DAC79F;
+	border: 6px solid #F9F3DD;
+}
+a:hover{
+	color: #F9F3DD;
+	background: black;
+}
